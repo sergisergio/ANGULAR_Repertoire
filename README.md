@@ -1,5 +1,7 @@
 # Repertoire
 
+![image](https://raw.githubusercontent.com/sergisergio/ANGULAR_Repertoire/master/repertoire.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
